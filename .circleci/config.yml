@@ -19,7 +19,7 @@ workflows:
 
 
 
-# Define the jobs we want to run for this project
+# Define the jobs we want to run for this project deployed
 jobs:
   build:
     working_directory: ~/SimpleApplication
